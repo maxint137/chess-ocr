@@ -1,0 +1,5 @@
+tensorflow
+matplotlib
+jupyter
+cairosvg
+typing
